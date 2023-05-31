@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.title {
+    color: #FFF;
+    font-size: 4rem;
+}
